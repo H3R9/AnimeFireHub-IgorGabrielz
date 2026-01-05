@@ -1,0 +1,5 @@
+{
+  "name": "AnimeFire Stremio Hub",
+  "description": "A modern dashboard to generate, configure, and preview the AnimeFire Stremio Addon. Browse the catalog simulation powered by Gemini and export the server code for deployment.",
+  "requestFramePermissions": []
+}
